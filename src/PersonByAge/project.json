@@ -5,7 +5,7 @@
     },
 
   "dependencies": {
-    "Person": "1.0.0-*",
+    "Personal": "1.0.0-*",
     "NETStandard.Library": "1.0.0-rc2-23819"
   },
 

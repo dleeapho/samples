@@ -23,8 +23,6 @@ namespace PersonByAge
             {
                 Console.WriteLine("{0} is {1} years old", item.Name, item.Age);
             }
-
-
         }
     }
 }

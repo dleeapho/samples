@@ -4,3 +4,5 @@
 /src/Person/Personal.xproj.user
 *.json
 /src/PersonByAge/PersonByAge.xproj.user
+/artifacts/obj
+/.vs/config

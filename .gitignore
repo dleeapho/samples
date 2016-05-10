@@ -1,8 +1,10 @@
 ﻿/.vs/PersonByAge/v14
 /.vs/PersonByAge/v14
-/artifacts/src
-/src/Person/Personal.xproj.user
-*.json
+/src/Personal/bin
+/src/Personal/obj
+/src/Personal/Personal.xproj.user
+/src/PersonByAge/bin
+/src/PersonByAge/obj
 /src/PersonByAge/PersonByAge.xproj.user
-/artifacts/obj
+project.lock.json
 /.vs/config
